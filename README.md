@@ -12,3 +12,6 @@ More context and full-length posts: [illartech.com](https://illartech.com)
 ## Frameworks
 
 Conceptual templates only — the underlying production prompts and configs stay private.
+
+- [Delegation & Routing Rubric](frameworks/delegation-routing-rubric.md) — when to hand work off, which cost tier to route to, and how to make review resistant to confident-but-unverified output.
+- [Consolidation Disposition Rubric](frameworks/consolidation-disposition-rubric.md) — a merge/absorb/remove test for shrinking any collection of near-duplicate items without silently losing coverage.
